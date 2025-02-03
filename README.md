@@ -11,11 +11,11 @@
  🌟 **About Me**
     <img src="https://raw.githubusercontent.com/Thapooja/Thapooja/main/Assets/coding_girl.png" min-width="300px" max-width="300px" width="350px" align="right"> 
     
- 🔭 I’m currently working as **a Freelance Developer & Designer**
+ 🔭 I’m currently Studying **Full stack web development**
  
- 🌱 I’m currently exploring **AI, Cloud Computing, and UI/UX Design**
+ 🌱 I’m currently exploring **Technology**
 
-💬 Feel free to ask me about **JavaScript, React, Python, or anything tech-related [here](https://github.com/Thapooja/Thapooja/issues)**
+💬 Feel free to ask me about **HTML, CSS anything tech-related [here](https://github.com/Thapooja/Thapooja/issues)**
 
 ⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes!**
 
